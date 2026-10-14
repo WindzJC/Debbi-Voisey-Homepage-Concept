@@ -16,7 +16,7 @@ Cloudflare Pages should serve `index.html` directly. The content is a design sam
 ## Notes before any client launch
 
 - Homepage headlines, positioning and introductory copy are draft proposals, subject to Debbi's approval.
-- Images are currently hotlinked from Debbi's site and publishers' sites; obtain usage permission and host approved files before a commercial launch.
+- Preview-only copies of the author portrait and book-cover images are stored in ssets/ for reliable display. Image rights remain with their respective owners: obtain permission or approved artwork before any official commercial launch.
 - Existing buttons lead to Debbi's current pages and publisher listings. A final site would need dedicated book pages, any desired new navigation, and verified purchase links.
 - All content, credits, services and contact details should be confirmed with Debbi before treating the concept as production-ready.
 - The preview has `noindex` directives to discourage search engine indexing.
